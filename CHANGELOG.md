@@ -1,3 +1,10 @@
+## v3.0.0
+
+* Allow for OmniAuth 2.0 series. (#16)
+
+## v2.5.1
+
+* Add dependency constraint for omniauth 1.x (#16)
 ## v2.5.0
 
 * Added Slack v2 API support (oauth flow, scopes, tokens).
